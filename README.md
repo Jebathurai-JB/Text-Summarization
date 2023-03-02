@@ -1,2 +1,2 @@
 # Text-Summarization
-Text Summarization using Huggingface Google Pegasus-xsum
+Text Summarization using Huggingface Google Pegasus-xsum. 
